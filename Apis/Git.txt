@@ -1,0 +1,6 @@
+En la carpeta TestApi se realizó la prueba con Karate pero por temas de licencia que requiere el aplicativo no se puedo tener las evidencias.
+
+Se agrega el postman de la prueba de los servicios
+
+
+Repo:
