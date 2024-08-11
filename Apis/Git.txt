@@ -3,4 +3,4 @@ En la carpeta TestApi se realizó la prueba con Karate pero por temas de licenci
 Se agrega el postman de la prueba de los servicios
 
 
-Repo:
+Repo:https://github.com/JoselinBurgos94/PruebaDevSu/tree/626f63c86620d84dc8ba4f3f326350f6ad7efe6b/Apis
